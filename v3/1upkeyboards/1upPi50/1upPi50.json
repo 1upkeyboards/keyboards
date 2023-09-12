@@ -1,5 +1,5 @@
 {
-    "name": "pi40",
+    "name": "pi50",
     "vendorId": "0x6F75",
     "productId": "0x5606",
     "matrix": { "rows": 10, "cols": 7},
